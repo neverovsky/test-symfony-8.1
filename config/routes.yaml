@@ -9,3 +9,14 @@
 
 controllers:
     resource: routing.controllers
+
+#blog_list:
+#    path: /blog
+#    controller: App\Controller\BlogController::index
+#    methods: GET|HEAD
+#
+#when@dev:
+#    info:
+#        path: /info
+#        controller: App\Controller\BlogController::info
+
